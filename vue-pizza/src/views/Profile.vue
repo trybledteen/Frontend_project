@@ -1,5 +1,5 @@
 <script>
-import OrdersList from '../components/OrdersList.vue'
+import OrdersList from '../components/OrderList.vue'
 
 export default {
   name: 'ProfilePage',
